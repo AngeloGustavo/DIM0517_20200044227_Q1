@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello2
 hello 2 e 2.1
+=======
+hello2.1
+>>>>>>> b1
